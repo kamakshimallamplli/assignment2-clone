@@ -1,0 +1,96 @@
+*{
+   align-content: center;
+   box-sizing: border-box;
+   font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+   font-weight: 400;
+}
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-top: 125px;
+    box-shadow: 0 2px 4px rgba(170, 163, 163, 0.5); 
+    width: 420px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
+    background-color: #fff;}
+hr{
+    width:180%;
+    border: 0.1px solid #0067b8 ;
+}
+img{
+    margin-top: 20px;
+    margin-left:30px ;
+}
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-right: 100px;
+}
+.two{
+    padding: 5px;
+    margin-right: 20px;
+} 
+.three a{
+    text-decoration: none;
+    color: #0067b8;
+}
+.three{
+        margin-top: -10%;
+}
+.four a{
+    text-decoration: none;
+    color: #0067b8;
+}
+.four{
+    margin-top: -15%;
+}
+.form input
+{
+ padding: 7px;
+ border: 2px;
+ border-radius: 20px;
+ width: 150%;
+ background-color: white;
+ display: flex;
+ justify-content: center;
+ 
+}
+.btn{
+    background-color: #0067b8;
+    color: rgb(255, 255, 255);
+    border: 6px;
+    padding:7px ;
+    width: 50%;
+    margin-left: 120%;
+    margin-top: 10px;
+    font-size: large;
+    
+}
+.main2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-top: 29px;
+    box-shadow: 0 2px 4px rgb(170, 163, 163);
+    width: 420px; 
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #fff;
+    
+}
+.main2 h4{
+    
+    margin-left: 32px;
+}
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/33/Microsoft_login_screen.svg);
+}
+.super{
+    margin-left:30px ;
+}
+h2{
+    font-weight: 400;
+}
