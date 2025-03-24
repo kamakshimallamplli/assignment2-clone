@@ -62,18 +62,19 @@ img{
     background-color: #0067b8;
     color: rgb(255, 255, 255);
     border: 6px;
-    padding:7px ;
+    padding:5px ;
     width: 50%;
-    margin-left: 120%;
-    margin-top: 10px;
+    transform: translate(-50%,-50%);
+    margin-left: 165%;
+    margin-top: -10%;
     font-size: large;
-    
+    z-index: 2;
 }
 .main2{
     display: flex;
     flex-wrap: wrap;
     justify-content: start;
-    margin-top: 29px;
+    margin-top: 10px;
     box-shadow: 0 2px 4px rgb(170, 163, 163);
     width: 420px; 
     margin-left: auto; 
